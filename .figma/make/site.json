@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your personal brand with a visually striking portfolio that integrates your profile photo throughout, enhancing your identity as a creative developer.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
