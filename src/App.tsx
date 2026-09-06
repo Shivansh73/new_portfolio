@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import profilePhoto from "../Portfolio/imports/image.png";
+const profilePhoto = `${import.meta.env.BASE_URL}image.png`;
 import resumePDF from "../Portfolio/imports/Shivansh_dubey.pdf";
 
 /* ─── Nav ─────────────────────────────────────────────────────────────── */
