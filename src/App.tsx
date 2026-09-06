@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import profilePhoto from "@/imports/image.png";
-import resumePDF from "@/imports/Shivansh_dubey.pdf";
+import profilePhoto from "../Portfolio/imports/image.png";
+import resumePDF from "../Portfolio/imports/Shivansh_dubey.pdf";
 
 /* ─── Nav ─────────────────────────────────────────────────────────────── */
 function Nav() {
